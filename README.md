@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center"><b>xHive</b> 专用于Hive数据库的高效数据迁移工具。</p>
+<p align="center"><b>xHive</b> --专注于Hive数据库的高效数据迁移工具。</p>
 
 
 
