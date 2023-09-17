@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<p align="center"><b>Ikaros</b> [Ίκαρος]，专注于ACGMN的个人内容管家(CMS)。</p>
+<p align="center"><b>xHive</b> 专用于Hive数据库的高效数据迁移工具。</p>
 
-<p align="center">ACGMN全拼是：Anime(动画) + Comic(漫画) + Game(游戏) + Music(音乐) + Novel(小说)</p>
+
 
 <p align="center">
 <a href="https://github.com/hackerlengyue/xHive/releases"><img alt="Github Releases" src="https://img.shields.io/github/v/release/hackerlengyue/xHive?include_prereleases&style=flat-square" /></a>
